@@ -1,5 +1,5 @@
 # PneumonAi
 Pneumonia is a serious, sometimes fatal, infection affecting the lungs and is caused by bacteria, viruses, or fungi. It is the leading cause of death among children under 5 and is the second largest contributor to hospital visits for adults in the US [(Source)](https://www.thoracic.org/patients/patient-resources/resources/top-pneumonia-facts.pdf). A challenge faced however, is quick, accurate and effective diagnosis. This is what PneumonAi aims to accomplish. Our approach uses convolutional neural networks in order to  diagnose pneumonia patients based on their corresponding chest x-rays (figure 1), and the advantage of this autonomous system is its ability to quickly go through many pateints with an accuracy of ~96% (figure 2).
 
-Our neural network was trained on the following dataset by Paul Mooney on Kaggle of ~5000 images containing x-rays of both "normal" patients and those diagnosed with pneumonia: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia (this dataset is also in the PneumonAi repository).
+Our neural network was trained on the following dataset by Paul Mooney on Kaggle of ~5200 training and ~620 test images containing x-rays of both "normal" patients and those diagnosed with pneumonia: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia (this dataset is also in the PneumonAi repository).
 
