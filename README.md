@@ -3,4 +3,4 @@ Pneumonia is a serious, sometimes fatal, infection affecting the lungs and is ca
 
 Furthermore, our neural network was trained on the following dataset by Paul Mooney on Kaggle of ~5200 training and ~620 test images containing x-rays of both "normal" patients and those diagnosed with pneumonia: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia (this dataset was too large to be uploaded directly into the PneumonAi repository).
 
-Feel free to reach out about any qeuries or requests!
+Do not hesitate to reach out about any qeuries or requests!
